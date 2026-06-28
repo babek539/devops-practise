@@ -25,4 +25,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: babakaliyev/devops-practice:01
+          tags: babakaliyev/devops-practice-database:01
